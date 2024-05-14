@@ -1,5 +1,5 @@
 # NYU-Deep-Learning-Final-Project-S24
-Advanced Implementation of ResNet-18 for CIFAR-10 classification 
+Push the Limit of Diabetic Retinopathy Detection
 
 ## Requirements
 - Python 3.6+
