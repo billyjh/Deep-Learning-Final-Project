@@ -1,4 +1,4 @@
-# NYU-Deep-Learning-Mini-Project-S24
+# NYU-Deep-Learning-Final-Project-S24
 Advanced Implementation of ResNet-18 for CIFAR-10 classification 
 
 ## Requirements
